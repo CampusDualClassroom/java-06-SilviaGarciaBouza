@@ -32,7 +32,7 @@ public class Exercise06 {
                 case 5:
                 case 6: {
                     System.out.println("It's night");
-                    break;
+                     break;
                 }
                 case 7:
                 case 8:
